@@ -1,0 +1,8 @@
+A,12,6,2022,4,34,23,PM,Taco Bell
+D
+J,0,5,31,2023
+K,0,12,1,1,AM
+L,0,Burger King
+D
+X,0
+D
